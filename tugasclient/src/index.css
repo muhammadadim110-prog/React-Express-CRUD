@@ -1,0 +1,31 @@
+.btn:hover {
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+.btn, .card, .list-group-item {
+  border-radius: 4px !important;
+  box-shadow: none !important;
+}
+
+.card {
+  transition: none !important;
+  box-shadow: none !important;
+}
+
+.list-group-item:hover {
+  background: none !important;
+}
+
+.navbar-brand:hover {
+  text-shadow: none !important;
+  transform: none !important;
+}
+
+.modal.fade .modal-dialog {
+  transform: none !important;
+  transition: none !important;
+}
+.modal.show .modal-dialog {
+  transform: none !important;
+}
